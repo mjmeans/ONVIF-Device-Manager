@@ -7,7 +7,7 @@ The original source for this library is no longer available. The VS 2019 updated
 ## "ffmpeg-git-a5c1a0c" : 
 The original source for this library is no longer available and it is not avaiable on NuGet. However, it is available from an official GitHub repo. To get this version:
 - Clone: "https://github.com/FFmpeg/FFmpeg"
-- Command: "git checkout ac082aa"
+- Command: "git checkout a5c1a0c"
 
 ## "live555-2013.02.11" : 
 The original source for this library is no longer available and it is not avaiable on NuGet. To get a newer version that may or may not work:
