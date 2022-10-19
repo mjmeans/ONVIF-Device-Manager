@@ -19,9 +19,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFToolkit.Extended", "libs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "odm.player.media", "odm\odm.player\odm.player.media\odm.player.media.csproj", "{5EE86409-3EA7-482A-8702-6DCA0D3BC4B1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "odm.player.net.v110", "odm\odm.player\odm.player.net\odm.player.net.v110.vcxproj", "{D3EEB24E-79A7-48B3-8D58-EDBABB68CF0A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "odm.player.net.v120", "odm\odm.player\odm.player.net\odm.player.net.v120.vcxproj", "{D3EEB24E-79A7-48B3-8D58-EDBABB68CF0A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "odm.player.lib.v110", "odm\odm.player\odm.player.lib\odm.player.lib.v110.vcxproj", "{28075439-FFFD-4E7A-AE50-A7C315566F87}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "odm.player.lib.v120", "odm\odm.player\odm.player.lib\odm.player.lib.v120.vcxproj", "{28075439-FFFD-4E7A-AE50-A7C315566F87}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "odm.player.host", "odm\odm.player\odm.player.host\odm.player.host.csproj", "{31A6319F-F5E4-4DA4-8258-76B8E3A09EA4}"
 EndProject
@@ -72,7 +72,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "odm.extensibility", "odm\od
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "odm.ui.activities", "odm\odm.ui.activities\odm.ui.activities.fsproj", "{14E1A0F2-CA90-4C89-AF93-058A1DCED77B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "live555-v110", "libs\live555-2013.02.11\live555-v110.vcxproj", "{9819B4D5-2F85-4349-8159-E3A64CF97DC1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "live555-v120", "libs\live555-2013.02.11\live555-v120.vcxproj", "{9819B4D5-2F85-4349-8159-E3A64CF97DC1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
