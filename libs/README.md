@@ -1,7 +1,7 @@
 # Libs Sources
 
-## "bccrypto-net-1.7-src-ext" :
-The original source for this library is no longer available. The VS 2019 updated project uses the NuGet package maintained by a BouncyCastle dev. To get it:
+## "bccrypto-net-1.7-src-ext" : Bouncy Castle Crypto API 1.7
+The original source for this library is available from "https://www.bouncycastle.org/csharp/download/bccrypto-net-1.7-bin-ext.zip". However, the VS 2019 updated project has been migrated to use the NuGet package instead. The NuGet package is maintained by a BouncyCastle dev. To get it:
 - NuGet command: "PM> NuGet\Install-Package Portable.BouncyCastle -Version 1.7.0.2". 
 
 ## "ffmpeg-git-a5c1a0c" : 
