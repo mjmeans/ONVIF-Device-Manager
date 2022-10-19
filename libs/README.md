@@ -17,4 +17,5 @@ The original source for this library is no longer available and it is not avaiab
 The original source for this library is no longer available and it is not avaiable on NuGet. However, it is available from an official GitHub repo. To get this version:
 - Clone: "https://github.com/xceedsoftware/wpftoolkit"
 - Command: "git checkout ac082aa"
+
 Note: The original source distro for this library was at CodePlex but that page has been deleted. With version 3.5.0 the entire project moved to GitHub and shortly after that changed to a license scheme that does not permit free open source projects. Versions up to 3.7.0 still have the Ms-PL license file if you checkout the specific versions from the repo.
